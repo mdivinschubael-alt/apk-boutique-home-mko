@@ -1,3 +1,3 @@
 # APK Boutique Home MKO
 
-Fichier APK : HomeMKO-android10.apk.
+Archive ZIP contenant l’APK : `HomeMKO-android10.zip`.
